@@ -8,7 +8,7 @@ Develop a database application about Quebec's midwifery services. This project i
 * **Database Population**: Inserting and managing data within the database.
 * **Java Programming**: Implementing key functionalities and user interface.
 
-## Workflow
+## Project Workflow
 
 1. **Data Modeling:**
     * Designing the database structure based on the requirements. `data_model`
@@ -20,6 +20,7 @@ Develop a database application about Quebec's midwifery services. This project i
     * Understanding how midwives log into the application to manage appointments, medical tests, and more.`src`
 9. **Application Development:**
     * Developing the application using Java to interact with the database.`src`
+
 
 ## Usage
 
@@ -35,6 +36,10 @@ Develop a database application about Quebec's midwifery services. This project i
     * **Verify Practitioner ID**: Ensure midwives have entered their practitioner IDs.
     * **Support Personalized Care**: Maintain records for each pregnancy.
 
+## Program Workflow
+<div style="text-align: center;">
+<img src="https://github.com/alloveww/Supporting-Families/assets/82560523/03e790f3-fffb-45ba-9a67-57d3f328b257" width="200" height="550">
+</div>
 
 ## License
 This project is licensed under the *GNU General Public License v3.0* License. See the [LICENSE](./LICENSE) file for details.
